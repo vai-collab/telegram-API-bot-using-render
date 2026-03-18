@@ -50,13 +50,6 @@ The bot is deployed on Render, which provides:
 
 ---
 
-## 📸 Screenshots
-
-* Telegram Chat Interface
-* Render Deployment Logs
-
----
-
 ## 📌 Use Cases
 
 * Beginner chatbot projects
